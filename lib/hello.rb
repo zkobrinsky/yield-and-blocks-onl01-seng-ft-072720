@@ -1,4 +1,4 @@
-def hello_t(array) 
+def hello_t(array)
   i = 0
 
   while i < array.length
@@ -15,4 +15,3 @@ end
 #     puts "Hi, #{name}"
 #   end
 # end
-
